@@ -1,0 +1,23 @@
+2018/6/30 下午2:52:10 https://qbank.bgsonline.eu/Users/Assessment/Assessment.aspx
+qbank.bgsonline.eu###signedIn
+
+! 2018/6/30 下午2:52:32 https://qbank.bgsonline.eu/Users/Assessment/Assessment.aspx
+qbank.bgsonline.eu##.header
+
+! 2018/6/30 下午2:52:53 https://qbank.bgsonline.eu/Users/Assessment/Assessment.aspx
+qbank.bgsonline.eu##.contentBody > div.BlueBar:nth-of-type(1)
+
+! 2018/6/30 下午2:53:17 https://qbank.bgsonline.eu/Users/Assessment/Assessment.aspx
+qbank.bgsonline.eu###footerMenuDiv
+
+! 2018/6/30 下午2:53:20 https://qbank.bgsonline.eu/Users/Assessment/Assessment.aspx
+qbank.bgsonline.eu##.footerContent
+
+! 2018/6/30 下午2:53:33 https://qbank.bgsonline.eu/Users/Assessment/Assessment.aspx
+qbank.bgsonline.eu##div.BlueBar:nth-of-type(5)
+
+! 2018/6/30 下午2:53:40 https://qbank.bgsonline.eu/Users/Assessment/Assessment.aspx
+qbank.bgsonline.eu###qStatsContent
+
+! 2018/6/30 下午2:53:47 https://qbank.bgsonline.eu/Users/Assessment/Assessment.aspx
+qbank.bgsonline.eu##div.BlueBarContent:nth-of-type(6)
